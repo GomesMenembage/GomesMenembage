@@ -1,14 +1,29 @@
-```markdown
-## Linguagens que Eu Uso
+markdown
+# Bem-vindo(a) ao meu Perfil! 🌟
 
-Aqui estão algumas das linguagens de programação que eu utilizo regularmente:
+## Linguagens e Tecnologias que Uso:
+Aqui estão as linguagens e tecnologias que eu utilizo no meu dia a dia:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<!---
-GomesMenembage/GomesMenembage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Python**  
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+
+- **Flask**  
+  ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)
+
+- **HTML**  
+  ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+
+- **CSS**  
+  ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+
+- **SQL**  
+  ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+
+---
+
+## Sobre Mim:
+Sou apaixonado por desenvolvimento web e busco constantemente me aperfeiçoar em back-end, front-end e banco de dados. Adoro construir aplicações usando ferramentas modernas e resolver problemas de forma criativa.
+
+---
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🚀
