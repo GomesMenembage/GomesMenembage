@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Gomes and I'm a Back-end Developer 👨‍💻</h1>
+<h2 align="center">Hello, my name is Gomes and I'm a Back-end Developer 👨‍💻</h2>
 
 <p align="center">
   <em>"Não é só código, é construção de futuro!"</em><br>
