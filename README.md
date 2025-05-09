@@ -1,4 +1,7 @@
-<h2 align="center">Hello, my name is Gomes and I'm a Back-end Developer 👨‍💻</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=" />
+
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Coder_404;" /><br>
 
 <p align="center">
   <em>"Não é só código, é construção de futuro!"</em><br>
