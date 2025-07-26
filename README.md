@@ -40,7 +40,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,sql" />
-  <img src="https://skillicons.dev/icons?i=flask,django,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,django,sqlite,mysql,fastapi" />
 </p>
 
 ---
