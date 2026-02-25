@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Hoje, não programo apenas para funcionar — programo para escalar, para impactar e para crescer.
+  Hoje, não programo apenas para funcionar — programo para escalar, impactar e crescer.
 </p>
 
 <p align="center">
@@ -29,17 +29,17 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔧 Sou um desenvolvedor backend com experiência em criação de APIs  
-- 🧠 Sempre explorando novas formas de otimizar aplicações e manter o código limpo e escalável  
-- 🌱 Atualmente focado em aprofundar meus conhecimentos em arquitetura de sistemas e segurança  
-- 📫 Entre em contato: **gomesmenembage16@gmail.com**
+- 🔧 Desenvolvedor backend focado em criação de APIs  
+- 🧠 Sempre explorando novas formas de otimizar aplicações e manter código limpo e escalável  
+- 🌱 Aprofundando conhecimentos em arquitetura de sistemas, segurança e microserviços  
+- 📫 Contato: **gomesmenembage16@gmail.com**
 
 ---
 
 ## 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,sql,mongodb" />
   <img src="https://skillicons.dev/icons?i=flask,django,sqlite,mysql,fastapi" />
 </p>
 
@@ -49,16 +49,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180"/>
 </p>
 
 ---
 
 ## ✨ Curiosidades
 
-- Gosto de arquitetura de software e clean code  
-- Trabalhar com APIs REST e bancos de dados é o meu forte  
-- Estou sempre testando novos projetos para evoluir minhas habilidades  
+- Apaixonado por arquitetura de software e clean code  
+- Especialista em APIs REST e integração com bancos de dados  
+- Sempre experimentando novos projetos para evoluir habilidades  
 
 ---
 
