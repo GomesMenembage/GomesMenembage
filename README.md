@@ -39,8 +39,22 @@
 ## 🚀 Tecnologias que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,sql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=flask,django,sqlite,mysql,fastapi" />
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -48,8 +62,8 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="300"/>
 </p>
 
 ---
