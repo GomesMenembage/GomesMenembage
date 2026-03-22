@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GomesMenembage" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=the_flylest;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Gomes+Menembage;Backend+Developer;API+%26+Data+Enthusiast;" />
 </h1>
 
 <p align="center">
@@ -9,52 +9,64 @@
 </p>
 
 <p align="center">
-  Cada linha de código que escrevo carrega mais do que lógica: carrega propósito, aprendizado e evolução.
+  Cada linha de código que escrevo carrega propósito, aprendizado e evolução.
+  <br/>
+  Foco em construir soluções escaláveis, eficientes e bem estruturadas.
 </p>
 
 <p align="center">
-  De um simples <code>console.log</code> a uma arquitetura robusta com microserviços e testes automatizados, 
-  o que me move é a paixão por resolver problemas de forma inteligente.
-</p>
-
-<p align="center">
-  Hoje, não programo apenas para funcionar — programo para escalar, impactar e crescer.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🔧 Desenvolvedor backend focado em criação de APIs  
-- 🧠 Sempre explorando novas formas de otimizar aplicações e manter código limpo e escalável  
-- 🌱 Aprofundando conhecimentos em arquitetura de sistemas, segurança e microserviços  
-- 📫 Contato: **gomesmenembage16@gmail.com**
+- 🔧 Desenvolvedor Backend focado em APIs e sistemas escaláveis  
+- 🧠 Foco em performance, clean code e boas práticas  
+- 🌱 Estudando arquitetura de sistemas e microserviços  
+- 📫 **gomesmenembage16@gmail.com**
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🚀 Stack Tecnológica
 
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+### 🧾 Linguagens
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
-<p align="left">
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+### ⚙️ Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+### 🚀 DevOps & Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -62,17 +74,18 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="320"/>
 </p>
 
 ---
 
 ## ✨ Curiosidades
 
-- Apaixonado por arquitetura de software e clean code  
-- Especialista em APIs REST e integração com bancos de dados  
-- Sempre experimentando novos projetos para evoluir habilidades  
+- 🧩 Focado em arquitetura e design de sistemas  
+- 🔗 Forte atuação em APIs REST e integração de dados  
+- ⚡ Sempre criando projetos para evoluir habilidades  
+- 📊 Apaixonado por dados e performance de bases de dados  
 
 ---
 
