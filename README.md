@@ -111,12 +111,6 @@ Backend Developer • APIs • Dados • Sistemas Escaláveis
 </p>
 
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesMenembage&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🎯 Áreas de Interesse
