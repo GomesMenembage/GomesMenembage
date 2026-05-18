@@ -97,13 +97,19 @@ Backend Developer • APIs • Dados • Sistemas Escaláveis
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GomesMenembage&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesMenembage&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GomesMenembage&theme=tokyonight&margin-w=12&no-frame=true&row=1&column=6" />
+</p>
+
 
 <p align="center">
 
