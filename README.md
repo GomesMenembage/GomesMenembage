@@ -1,92 +1,131 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GomesMenembage" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GomesMenembage"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Gomes+Menembage;Backend+Developer;API+%26+Data+Enthusiast;" />
+  👋 Olá, eu sou Gomes Menembage
 </h1>
 
-<p align="center">
-  <em>"Não é só código, é construção de futuro!"</em>
-</p>
+<h3 align="center">
+Backend Developer • APIs • Dados • Sistemas Escaláveis
+</h3>
 
 <p align="center">
-  Cada linha de código que escrevo carrega propósito, aprendizado e evolução.
-  <br/>
-  Foco em construir soluções escaláveis, eficientes e bem estruturadas.
+  <em>
+  "Não é só código, é construir soluções que resolvem problemas reais."
+  </em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
-</p>
+<br>
 
----
+<div align="center">
 
-## 🧑‍💻 Sobre mim
+🔭 Atualmente focado em **Backend & Arquitetura**  
+🌱 Estudando **Microserviços e Sistemas Escaláveis**  
+⚡ Interesse em **APIs, Dados e Performance**  
+📫 Contacto: **gomesmenembage16@gmail.com**
 
-- 🔧 Desenvolvedor Backend focado em APIs e sistemas escaláveis  
-- 🧠 Foco em performance, clean code e boas práticas  
-- 🌱 Estudando arquitetura de sistemas e microserviços  
-- 📫 **gomesmenembage16@gmail.com**
+</div>
 
 ---
 
 ## 🚀 Stack Tecnológica
 
-### 🧾 Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-</p>
-
-### ⚙️ Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
-
-### 🚀 DevOps & Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## 📊 Estatísticas
+### Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight&hide_border=false" width="320"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="320"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## ✨ Curiosidades
+### Frameworks
 
-- 🧩 Focado em arquitetura e design de sistemas  
-- 🔗 Forte atuação em APIs REST e integração de dados  
-- ⚡ Sempre criando projetos para evoluir habilidades  
-- 📊 Apaixonado por dados e performance de bases de dados  
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+</p>
 
 ---
 
-<h4 align="center">🚀 Building the future, one line of code at a time.</h4>
+### Banco de Dados
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+</p>
+
+---
+
+### Ferramentas & Deploy
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=GomesMenembage&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMenembage&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GomesMenembage&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Áreas de Interesse
+
+✔ Desenvolvimento Backend  
+✔ APIs REST  
+✔ Arquitetura de Software  
+✔ Modelagem de Dados  
+✔ Performance de Banco de Dados  
+✔ Sistemas Escaláveis  
+
+---
+
+<h3 align="center">
+
+🚀 Building scalable systems, one API at a time
+
+</h3>
